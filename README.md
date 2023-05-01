@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  
 
-Hi, I go by the psuodonym dahy I am interested in tech stuffs. I am knowledgable at design and stuffs so I am more interested in front end of programs.  I am currently studying computer engineering to widen my knowledge about tech industry as a whole.  I currently do not have any avenue for collaborate but pulling request are always available. 
+Hi, I go by the psuodonym dahy I am interested in tech stuffs. I am knowledgable at design and stuffs so I am more interested in front end of programs. I am versed with python and currently learning AI.  I am currently studying computer engineering to widen my knowledge about tech industry as a whole.  I currently do not have any avenue for collaborate but pulling request are always available. 
 
 
 <!--
